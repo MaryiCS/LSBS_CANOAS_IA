@@ -1,11 +1,16 @@
-# Taller práctico de inteligencia artificial — LSBS
+# Taller práctico de IA · LSBS
 
-Presentación de 19 diapositivas para explorar IA generativa, asistentes y agentes, uso responsable, actividades prácticas y servicios de IA. Incluye enlaces clicables a los sitios oficiales de las herramientas.
+## Sitio público
 
-## Archivos
+Visita **[Taller de IA — LSBS](https://maryics.github.io/LSBS_CANOAS_IA/)**. Allí encontrarás la presentación, el expediente profesional, el video, el tablero Hilos de IA, enlaces a servicios y un código QR de acceso rápido.
+
+## Archivos y artefactos
 
 - [Descargar la presentación PowerPoint](./Taller_IA_LSBS_CANOAS.pptx)
-- [Ver el video de presentación de Maryi Adriana Cadrazco Suárez, creado en Claude](https://claude.ai/artifact/8S2jitEXAL443qutq9fpMd)
+- [Abrir el video de presentación en Claude](https://claude.ai/artifact/8S2jitEXAL443qutq9fpMd)
+- [Abrir Hilos de IA en Claude](https://claude.ai/artifact/AjQSvULQPFDT5oPvxwHPNB)
 - [LinkedIn](https://www.linkedin.com/in/maryi-cadrazco-suarez/)
 
-El enlace de Claude abre el artefacto interactivo compartido, que incluye el reproductor, la presentación y el enlace a LinkedIn.
+El sitio incrusta los dos artefactos de Claude y ofrece un enlace directo por si el reproductor integrado no carga. Hilos de IA advierte que los aportes pueden ser visibles para cualquiera que abra el tablero; evita publicar información personal o de terceros.
+
+El expediente se presenta como una síntesis del artefacto de Claude, cuyo contenido aparece señalado como generado por usuarios y no verificado. Confirma los datos antes de reutilizarlos.
